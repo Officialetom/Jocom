@@ -1,0 +1,59 @@
+video 
+{
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    z-index: -1;
+    position: fixed;
+}
+
+.image 
+{
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    z-index: -1;
+    position: fixed;
+}
+
+.banner-container
+{
+    /* background-image: url('../Component/laptop.jpg') center center/cover no-repeat; */
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    align-items:  center;
+    object-fit: contain;
+}
+
+.banner-container > h1
+{
+    color: white;
+    font-size: 50px;
+    margin-top: 130px;
+}
+
+.banner-container > p
+{
+    color: springgreen;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 960px) 
+{
+
+.banner-container > h1
+{
+    font-size: 30px;
+    margin-top: 130px;
+}
+
+.banner-container > p
+{
+    font-size: 15px;
+}
+}
