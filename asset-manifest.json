@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Jocom/static/css/main.6f6e26be.css",
+    "main.js": "/Jocom/static/js/main.db3be975.js",
+    "static/media/2.jpg": "/Jocom/static/media/2.909a4c17697c449ac264.jpg",
+    "static/media/laptop.jpg": "/Jocom/static/media/laptop.7f5552f3dcd2d08b76de.jpg",
+    "static/media/lap-cofee.jpg": "/Jocom/static/media/lap-cofee.a56b33f51953f88ec949.jpg",
+    "static/media/3.jpg": "/Jocom/static/media/3.79376a76db80ba2be658.jpg",
+    "static/media/microsoft-word.png": "/Jocom/static/media/microsoft-word.35b52fc225b7105799c5.png",
+    "static/media/html.png": "/Jocom/static/media/html.dcd6f79476d4c2b1feaa.png",
+    "static/media/corel.png": "/Jocom/static/media/corel.e7683bffe9511e09020d.png",
+    "static/media/css.png": "/Jocom/static/media/css.bd750c0a36aafe04abc6.png",
+    "index.html": "/Jocom/index.html",
+    "main.6f6e26be.css.map": "/Jocom/static/css/main.6f6e26be.css.map",
+    "main.db3be975.js.map": "/Jocom/static/js/main.db3be975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f6e26be.css",
+    "static/js/main.db3be975.js"
+  ]
+}
