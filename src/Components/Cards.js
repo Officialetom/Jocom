@@ -15,12 +15,6 @@ function Cards() {
        <div className="card_container">
            <div className="card_wrap">
                <ul className="card_items">
-                  
-                       { props => (
-                           <div style={props}>
-                               
-                           </div>
-                       )}
 
                    
                 <CardItem 

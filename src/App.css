@@ -4,12 +4,12 @@
     padding: 0;
     font-family: 'Raleway', sans-serif;
     }
-    .home,
+    .banner,
     .courses,
     .about-us,
     .sign-up {
     display: flex;
-    height: 90vh;
+    height: 70vh;
     align-items: center;
     justify-content: center;
     font-size: 3rem;
@@ -40,8 +40,17 @@
     }
 
     @media screen and (max-width: 490px)  {
-        .courses h1
-        {
-            font-size: 25px;
-        }
+        
+        .courses {
+            font-size: 50px;
+            text-align: center;
+            }
+            .about-us {
+            font-size: 50px;
+            text-align: center;
+            }
+            .sign-up {
+            font-size: 50px;
+            text-align: center;
+            }
     }
